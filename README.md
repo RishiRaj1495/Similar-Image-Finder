@@ -100,7 +100,7 @@ After searching, visualize the query and its top similar images:
 
 ## References
 
-- CLIP Model: https://huggingface.co/openai/clip-vit-base-patch16
+- CLIP Model: https://huggingface.co/openai/
 - Google Colab Platform: https://colab.research.google.com/
 
 ---
